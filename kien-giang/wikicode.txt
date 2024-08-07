@@ -1,83 +1,20 @@
 {{Location mark+
- | width=600
+ | width=500
  | image=kiengiang_province_administrative_map.jpg
  | caption=Bản đồ hành chính tỉnh Kiên Giang
- | type = thumb
- | float = left
+ | type = 
+ | float = none
  | marks =
  {{Location mark~
   | label = '''[[Phú Quốc|TP.Phú Quốc]]'''
   | position = top
+  | width = 500
   | mark = Blanksvg.svg
   | x = 580 | y = 480 }}
-  {{Location mark~
-  | label = '''[[Hà Tiên|TP.Hà Tiên]]'''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 1200 | y = 400 }}
-  {{Location mark~
-  | label = ''[[Giang Thành|H.Giang Thành]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 1600 | y = 200 }}
-  {{Location mark~
-  | label = ''[[Kiên Lương|H.Kiên Lương]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 1500 | y = 500 }}
-  {{Location mark~
-  | label = ''[[Hòn Đất|H.Hòn Đất]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 1900 | y = 600 }}
-  {{Location mark~
-  | label = ''[[Tân Hiệp|H.Tân Hiệp]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 2300 | y = 700 }}
-  {{Location mark~
-  | label = '''[[Rạch Giá|TP.Rạch Giá]]'''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 1950 | y = 850 }}
-  {{Location mark~
-  | label = ''[[Châu Thành, Kiên Giang|H.Châu Thành]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 2250 | y = 900 }}
-  {{Location mark~
-  | label = ''[[Giồng Riềng|H.Giồng Riềng]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 2500 | y = 900 }}
-  {{Location mark~
-  | label = ''[[Gò Quao|H.Gò Quao]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 2500 | y = 1200 }}
-  {{Location mark~
-  | label = ''[[Vĩnh Thuận|H.Vĩnh Thuận]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 2350 | y = 1480 }}
-  {{Location mark~
-  | label = ''[[U Minh Thượng|H.U Minh Thượng]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 2150 | y = 1300 }}
-  {{Location mark~
-  | label = ''[[An Minh|H.An Minh]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 1850 | y = 1300 }}
-  {{Location mark~
-  | label = ''[[An Biên|H.An Biên]]''
-  | position = top
-  | mark = Blanksvg.svg
-  | x = 2050 | y = 1050 }}
-  {{Location mark~
+ {{Location mark~
   | label = ''[[Kiên Hải|H.Kiên Hải]]''
   | position = top
+  | width = 500
   | mark = Blanksvg.svg
   | x = 1250 | y = 1300 }}
 }}

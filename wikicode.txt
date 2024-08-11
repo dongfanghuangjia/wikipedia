@@ -1,0 +1,20 @@
+{{Location mark+
+ | width=450
+ | image=kiengiang_district_administrative_map.jpg
+ | caption=Bản đồ hành chính tỉnh Cà Mau
+ | type = 
+ | float = none
+ | marks =
+ {{Location mark~
+  | label = '''[[Phú Quốc|TT.Phú Quốc]]'''
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 580 | y = 480 }}
+ {{Location mark~
+  | label = ''[[Kiên Hải|X.Kiên Hải]]''
+  | position = top
+  | width = 450
+  | mark = Blanksvg.svg
+  | x = 1250 | y = 1300 }}
+}}
